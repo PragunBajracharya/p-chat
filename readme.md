@@ -14,7 +14,6 @@ P Chat is a real-time chat application built using **Vite**, **React**, **Node.j
 - **Backend:** Node.js, Express.js
 - **Database:** MongoDB
 - **WebSockets:** Socket.io
-- **Deployment:** Vercel (Frontend), Railway/Render (Backend)
 
 ---
 
